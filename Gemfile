@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.8'
 
-gem 'heroku', ~> '2.31.2'
+gem 'heroku', '~> 2.31.2'
 
 gem 'sqlite3'
 #group :development do
