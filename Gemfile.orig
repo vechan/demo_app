@@ -12,6 +12,7 @@ gem 'sqlite3'
 # in production environments by default.
 group :assets do
   gem 'sass-rails',   '~> 3.2.3'
+  # ~> means any minor versions higher than 3.2.3 is also fine, e.g. 3.2.8
   gem 'coffee-rails', '~> 3.2.1'
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
